@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "D:/6th sem/OOAD/Project/murali/new_demo/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "D:/6th sem/OOAD/Project/murali/new_demo/./frontend/generated/jar-resources",
+  "staticOutput": "D:/6th sem/OOAD/Project/murali/new_demo/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "D:\\6th sem\\OOAD\\Project\\murali\\new_demo\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "D:\\6th sem\\OOAD\\Project\\murali\\new_demo\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "D:/6th sem/OOAD/Project/murali/new_demo/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "D:/6th sem/OOAD/Project/murali/new_demo/src/main/dev-bundle/config",
+  "jarResourcesFolder": "D:/6th sem/OOAD/Project/murali/new_demo/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "D:\\6th sem\\OOAD\\Project\\murali\\new_demo\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
